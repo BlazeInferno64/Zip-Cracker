@@ -14,14 +14,14 @@ To download the executable file click <a href="https://github.com/BlazeInferno64
 
 If you wanna run it as an python script then first dowload the necessary modules for it by running the command as belows -
 
-```
-pip install -r requirements.txt
+```bash
+$ pip install -r requirements.txt
 ```
 
 After running this headover to the <a href="./src/">src</a> folder and then run the `main.py` file, you can however run it by using the following command also -
 
-```
-python main.py
+```bash
+$ python main.py
 ```
 
 In the zip file location and password list location input, you can enter a url and Zip Cracker will automatically download the zip file and password list from the url and then use it for cracking!
